@@ -350,13 +350,13 @@ a:hover, a:active, a:focus {
 
 #home .col-md-6 {
   background: #f1e2d7;
-/* light blue color: #c3eafd; */
+
   padding-right: 0;
   padding-left: 0;
 }
 
 #home .home-img {
-  background: url('../images/home-img.jpg') no-repeat;
+  background: url('../images/pawel-czerwinski-z4n8CGRuzOA-unsplash.jpg') no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   width: 100%;
@@ -489,7 +489,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #Web {
-    background: url('../images/quotes-bg.jpg') 50% 0 repeat-y fixed;
+    background: url('../images/meiying-ng-OrwkD-iWgqg-unsplash.jpg') 50% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
     color: #ffffff;
